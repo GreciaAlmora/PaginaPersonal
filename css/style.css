@@ -1,0 +1,52 @@
+body{
+    background-color: #fcfaed;
+    background-color: #cdeac0;
+    margin: 0;
+}
+#menu{
+    background-color: #fcfbef;
+    margin-bottom: 20px;
+}
+ul{
+    margin: 0;
+}
+li{
+    font-size: 20px;
+    list-style: none;
+    display: inline;
+    margin-right: 40px;
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+    color: #ff574f;
+}
+
+#Hola{
+    width: 60%;
+    display:block;
+    float: left;
+    text-align: right;
+    font-size: 25px;
+}
+#Hola>h1{
+    font-size: 50px;
+}
+#HolaImagen>img{
+    width: 25%;
+}
+#favorita{
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+}
+#resumenImagen{
+    float: left; 
+}
+#resumen{
+    display:inline-flex;
+    margin-top: 60px;
+    width: 70%;
+    font-size: 25px;
+}
+
